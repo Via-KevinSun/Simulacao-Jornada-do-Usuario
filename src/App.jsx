@@ -30,16 +30,16 @@ const projetos = [
     nome: "SGMC – Sistema de Gestão e Monitoramento de Contentores",
     descricao: "Plataforma web para gestão portuária, que centraliza o cadastro e rastreamento de contentores, controle de movimentações e alocação em zonas de armazenagem",
     tecnologias: ["React", "Node.js", "PostgreSQL"],
-    github: "https://github.com/seu-usuario/projeto1",
-    demo: "https://seu-projeto1-demo.com",
+    github: "*",
+    demo: "*",
     estado: "EM ANDAMENTO"
   },
   {
     nome: "ClimaSearch",
     descricao: "Aplicação web para consultar o clima em tempo real de qualquer cidade, usando API pública, desenvolvida com React e CSS para uma interface simples e prática.",
     tecnologias: ["React", "CSS"],
-    github: "https://github.com/seu-usuario/projeto2",
-    demo: "https://seu-projeto2-demo.com",
+    github: "https://github.com/Via-KevinSun/ClimaSearch",
+    demo: "https://clima-search.vercel.app/",
     estado: "COMPLETO"
   },
 ];
